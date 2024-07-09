@@ -58,6 +58,7 @@ Digital literacy programs related to AI usage and effective implementation are n
 This report should be made available on the ministry's website and through various other channels to collect feedback and suggestions for further implementation.
 
 <div style="page-break-after: always;"></div>
+
 ## 1. Summary:
 
 Artificial Intelligence (AI) translates to "Kritrim Buddhimatta" in Nepali, which means an artificial intelligence system based on machinery that mimics human behavior. In recent years, AI has become one of the popular subjects among government, private sectors, and the general public. Although the term AI came into use in the mid-20th century, efforts to create intelligent systems have been ongoing for much longer. Ancient Greek myths mention the use of mechanical guardians, indicating early concepts of AI. However, the actual influence of AI began in 1950 when Alan Turing proposed the "The Imitation Game" to test machine intelligence. In 1960, Joseph Weizenbaum created "Eliza," the first general-purpose AI designed for communication, enabling machines to interact with humans. Eliza became the first computer program to pass the Turing Test.
